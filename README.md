@@ -1,3 +1,3 @@
 # portfolio-projeto-gta1
 
- Material do Projeto GTA
+ Projeto feito usando HTML, CSS e JavaScript
